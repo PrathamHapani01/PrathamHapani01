@@ -83,10 +83,10 @@ philosophy: >
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathamhapani01&show_icons=true&theme=radical&hide_border=true&border_radius=14&count_private=true" height="168"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prathamhapani01&show_icons=true&theme=radical&hide_border=true&border_radius=14&count_private=true&include_all_commits=true" height="168"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamhapani01&layout=compact&theme=radical&hide_border=true&border_radius=14" height="168"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamhapani01&theme=radical&hide_border=true&border_radius=14" />
+<img src="https://streak-stats.demolab.com/?user=prathamhapani01&theme=radical&hide_border=true&border_radius=14" />
 
 </div>
 
