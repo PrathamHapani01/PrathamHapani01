@@ -77,31 +77,6 @@ philosophy: >
 
 <br>
 
-<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
-
-## 📊 The Numbers Behind the Code
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prathamhapani01&show_icons=true&theme=radical&hide_border=true&border_radius=14&count_private=true" height="168"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamhapani01&layout=compact&theme=radical&hide_border=true&border_radius=14" height="168"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamhapani01&theme=radical&hide_border=true&border_radius=14" />
-
-</div>
-
-<br>
-
-<!-- ─────────────────────────────  TROPHIES  ───────────────────────────── -->
-
-
-
-<br>
-
-<!-- ─────────────────────────────  ACTIVITY  ───────────────────────────── -->
-
-
-
 <br>
 
 <!-- ─────────────────────────────  QUOTE  ───────────────────────────── -->
